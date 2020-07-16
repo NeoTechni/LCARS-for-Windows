@@ -1,0 +1,13 @@
+Form1 = 51, 11, 1658, 963, C, 922, 28, 1106, 143, C
+LCARgraphics = 194, 52, 1418, 671, 
+LCARinterface = 28, 3, 1177, 623, 
+ResourceSounds = 0, 0, 1001, 440, C
+SystemAPI = 125, 56, 1154, 631, 
+Registryhandling = 138, 138, 1144, 577, C
+ProgramAPI = 190, 16, 1096, 623, C
+GDI32 = 139, 16, 1045, 623, 
+GraphicsAPI = 34, 278, 940, 890, 
+EffectsAPI = 74, 30, 1136, 637, 
+FileOps = 220, 4, 1132, 631, , 114, 17, 238, 107, C
+exeInfo = 75, 75, 1087, 536, C
+CircularLCAR = 25, 19, 1831, 950, 
